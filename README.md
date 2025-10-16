@@ -39,17 +39,17 @@ May the force be with you!
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
-    &emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
-    &emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
-    &emsp;|-->Psicologia, Liderança e Soft Skills<br>
-    &emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
+    &emsp;&emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
+    &emsp;&emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
+    &emsp;&emsp;|-->Psicologia, Liderança e Soft Skills<br>
+    &emsp;&emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
   &emsp;|-->Entrega 2<br>
-    &emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
-    &emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
-    &emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
-    &emsp;|-->Psicologia, Liderança e Soft Skills<br>
-    &emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
+    &emsp;&emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
+    &emsp;&emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
+    &emsp;&emsp;|-->Psicologia, Liderança e Soft Skills<br>
+    &emsp;&emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
   &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
   &emsp;|readme.md<br>
 |-->executáveis<br>
@@ -59,12 +59,12 @@ May the force be with you!
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;|-->assets<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->assets<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
   &emsp;|-->Entrega 2<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
 |.gitignore<br>
 |readme.md<br>
 
