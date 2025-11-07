@@ -25,12 +25,15 @@ Vide tutoriais do PI.
   Dashboard by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+## Cannoli 360 — Inteligência de Dados para Restaurantes
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+A Cannoli 360 é uma solução de data analytics desenvolvida em Python com Streamlit, voltada para food techs e redes de restaurantes que buscam maximizar o lucro líquido por meio de Análise Preditiva e Prescritiva. O sistema processa mais de 100.000 transações reais e aplica técnicas de Machine Learning para transformar dados operacionais em inteligência de negócios acionável. Utilizando Análise de Componentes Principais (PCA), a plataforma reduz a dimensionalidade dos dados, destacando os fatores que mais influenciam o desempenho financeiro. 
 <br><br>
-May the force be with you!
+Em seguida, o K-Means realiza a clusterização para identificar padrões de consumo, segmentos de clientes e oportunidades de otimização. O dashboard interativo, desenvolvido em Streamlit, oferece visualizações dinâmicas e intuitivas, permitindo explorar métricas de desempenho, prever cenários futuros e gerar recomendações prescritivas para apoiar decisões estratégicas.
+<br><br>
+Slogan: “Dados que alimentam decisões.”
+<br><br>
+LINK PARA O DASHBOARD INTERATIVO: Cannoli 360
 <br><br>
 
 ## 🛠 Estrutura de pastas
