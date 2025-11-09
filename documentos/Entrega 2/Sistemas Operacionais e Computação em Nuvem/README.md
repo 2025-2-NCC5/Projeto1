@@ -68,6 +68,4 @@ Dica: Se Você Alterar o Código
 
 Se você modificar qualquer arquivo .py, force o Docker a reconstruir a imagem com suas alterações usando a flag --build:
 
-# Exemplo: Re-rodando o PCA após uma mudança no código
-docker-compose up --build pca-ia
 
