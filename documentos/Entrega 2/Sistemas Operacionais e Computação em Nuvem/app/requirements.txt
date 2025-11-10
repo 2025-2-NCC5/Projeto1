@@ -1,0 +1,6 @@
+# Bibliotecas principais
+pandas
+scikit-learn
+matplotlib
+psutil
+joblib

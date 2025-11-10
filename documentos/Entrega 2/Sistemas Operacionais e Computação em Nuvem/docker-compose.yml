@@ -1,0 +1,50 @@
+services:
+  monitor:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: jenimarques/monitor-ia:latest
+    command: python main.py monitor --intervalo 5
+    volumes:
+      - ./data:/data
+    restart: "no"
+
+  regressao_linear-ia:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: jenimarques/regressao_linear-ia:latest
+    command: python main.py regressao_linear
+    volumes:
+      - ./data:/data
+    restart: "no"
+
+  tsne-ia:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: jenimarques/tsne-ia:latest
+    command: python main.py tsne
+    volumes:
+      - ./data:/data
+    restart: "no"
+
+  pca-ia:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: jenimarques/pca-ia:latest
+    command: python main.py pca
+    volumes:
+      - ./data:/data
+    restart: "no"
+
+  detector_anomalia-ia:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: jenimarques/detector_anomalia-ia:latest
+    command: python main.py detector_anomalia
+    volumes:
+      - ./data:/data
+    restart: "no"

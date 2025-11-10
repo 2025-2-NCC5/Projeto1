@@ -10,9 +10,9 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Cannoli 360
 
-## Nome do Grupo
+## Núcleo Tech
 
 ## Integrantes: <a href="https://www.linkedin.com/in/mariaeflopes/">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/flaviojose-santos/">Flávio Santos</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto</a>, <a href="https://www.linkedin.com/in/felipecarpal/">Felipe Carvalho Paleari</a>
 
@@ -25,12 +25,15 @@ Vide tutoriais do PI.
   Dashboard by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+## Cannoli 360 — Inteligência de Dados para Restaurantes
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+A Cannoli 360 é uma solução de data analytics desenvolvida em Python com Streamlit, voltada para food techs e redes de restaurantes que buscam maximizar o lucro líquido por meio de Análise Preditiva e Prescritiva. O sistema processa mais de 100.000 transações reais e aplica técnicas de Machine Learning para transformar dados operacionais em inteligência de negócios acionável. Utilizando Análise de Componentes Principais (PCA), a plataforma reduz a dimensionalidade dos dados, destacando os fatores que mais influenciam o desempenho financeiro. 
 <br><br>
-May the force be with you!
+Em seguida, o K-Means realiza a clusterização para identificar padrões de consumo, segmentos de clientes e oportunidades de otimização. O dashboard interativo, desenvolvido em Streamlit, oferece visualizações dinâmicas e intuitivas, permitindo explorar métricas de desempenho, prever cenários futuros e gerar recomendações prescritivas para apoiar decisões estratégicas.
+<br><br>
+Slogan: “Dados que alimentam decisões.”
+<br><br>
+LINK PARA O DASHBOARD INTERATIVO: Cannoli 360
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -39,17 +42,17 @@ May the force be with you!
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
-    &emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
-    &emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
-    &emsp;|-->Psicologia, Liderança e Soft Skills<br>
-    &emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
+    &emsp;&emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
+    &emsp;&emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
+    &emsp;&emsp;|-->Psicologia, Liderança e Soft Skills<br>
+    &emsp;&emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
   &emsp;|-->Entrega 2<br>
-    &emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
-    &emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
-    &emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
-    &emsp;|-->Psicologia, Liderança e Soft Skills<br>
-    &emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
+    &emsp;&emsp;|-->Algebra Linear, Vetores e Geometria Analitica<br>
+    &emsp;&emsp;|-->Inteligencia Artificial e Aprendizado de Maquina<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
+    &emsp;&emsp;|-->Psicologia, Liderança e Soft Skills<br>
+    &emsp;&emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
   &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
   &emsp;|readme.md<br>
 |-->executáveis<br>
@@ -59,12 +62,12 @@ May the force be with you!
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;|-->assets<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->assets<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
   &emsp;|-->Entrega 2<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
 |.gitignore<br>
 |readme.md<br>
 
