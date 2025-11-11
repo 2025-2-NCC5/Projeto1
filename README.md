@@ -47,6 +47,9 @@ LINK PARA O DASHBOARD INTERATIVO: Cannoli 360
     &emsp;&emsp;|-->Projeto Interdisciplinar | Inteligencia Artificial<br>
     &emsp;&emsp;|-->Psicologia, Liderança e Soft Skills<br>
     &emsp;&emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
+    &emsp;&emsp;|-->Banner<br>
+    &emsp;&emsp;&emsp;|-->Banner_FECAP_CCOMP5_NUCLEOTECH.pdf<br>
+    &emsp;&emsp;&emsp;|-->Banner_FECAP_CCOMP5_NUCLEOTECH.pptx<br>
   &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
   &emsp;|readme.md<br>
 |-->imagens<br>
