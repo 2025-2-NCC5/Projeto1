@@ -90,7 +90,8 @@ LINK PARA O DASHBOARD INTERATIVO: Cannoli 360
    streamlit run "Home.py"
 6. Abra o link mostrado em http://localhost:8501
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+## 📋 Licença/License
+<a href="https://github.com/2025-2-NCC5/Projeto1/tree/main?tab=readme-ov-file">Cannoli 360 </a> © 2025 by <a href="https://www.linkedin.com/in/flaviojose-santos/">Flavio Santos</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
