@@ -1,9 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
@@ -21,7 +15,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Dashnoli" border="0">
+<img src="https://github.com/2025-2-NCC5/Projeto1/blob/main/imagens/logo_projeto.jpg" alt="Cannoli 360º" border="0">
   Dashboard by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
@@ -55,75 +49,46 @@ LINK PARA O DASHBOARD INTERATIVO: Cannoli 360
     &emsp;&emsp;|-->Sistemas Operacionais e Computação em Nuvem<br>
   &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
   &emsp;|readme.md<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
+&emsp;|logo_projeto.png<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;&emsp;|-->assets<br>
     &emsp;&emsp;|-->Backend<br>
     &emsp;&emsp;|-->Frontend<br>
+    &emsp;&emsp;&emsp;|-->pages<br>
+    &emsp;&emsp;&emsp;&emsp;|-->01_dashboard.py<br>
+    &emsp;&emsp;&emsp;&emsp;|-->02_modelo.py<br>
+    &emsp;&emsp;&emsp;&emsp;|-->03_modelo.py<br>
+    &emsp;&emsp;&emsp;|-->Home.py<br>
   &emsp;|-->Entrega 2<br>
     &emsp;&emsp;|-->Backend<br>
-    &emsp;&emsp;|-->Frontend<br>
+    &emsp;&emsp;&emsp;|-->utils<br>
+    &emsp;&emsp;|-->assets<br>
+    &emsp;&emsp;&emsp;|-->logo_projeto.png<br>
+    &emsp;&emsp;|-->pages<br>
+    &emsp;&emsp;&emsp;|-->02_ROI_Casos_Sucesso.py<br>
+    &emsp;&emsp;&emsp;|-->03_BSC.py<br>
+    &emsp;&emsp;&emsp;|-->04_RFM_e_Otimizacao.py<br>
+    &emsp;&emsp;&emsp;|-->05_Contato.py<br>
+    &emsp;&emsp;|-->Home.py<br>
 |.gitignore<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+## Requisitos
+- Python 3.8+
+- streamlit
+- dependências listadas em requirements.txt
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
-## 🛠 Instalação
-
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
+## Rodar local
+1. Abra o terminal.
+2. Navegue até a pasta `Entrega 2`:
+   cd "caminho/para/Entrega 2"
+3. (Opcional) Ative ambiente virtual.
+4. Instale dependências:
+   pip install -r requirements.txt
+5. Rode:
+   streamlit run "Home.py"
+6. Abra o link mostrado em http://localhost:8501
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
 
@@ -134,6 +99,8 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+4. <https://www.bcb.gov.br/>
+5. <https://streamlit.io/>
+6. <https://docs.python.org/3/>
+7. <https://plotly.com/python/>
+8. <https://docs.streamlit.io/>
