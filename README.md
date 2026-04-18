@@ -8,7 +8,7 @@
 
 ## Núcleo Tech
 
-## Integrantes: <a href="https://www.linkedin.com/in/mariaeflopes/">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/flaviojose-santos/">Flávio Santos</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto</a>, <a href="https://www.linkedin.com/in/felipecarpal/">Felipe Carvalho Paleari</a>
+## Integrantes: <a href="https://www.linkedin.com/in/mariaeflopes/">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/flaviojose-santos/">Flávio Santos</a>, <a href="https://www.linkedin.com/in/jeniferjacinobarreto/">Jenifer Jacino Barreto</a>, <a href="https://www.linkedin.com/in/felipecarpal/">Felipe Carvalho Paleari</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>, <a href="https://www.linkedin.com/in/marcosminorunakatsugawa/">Marcos Minoru Nakatsugawa</a>, <a href="https://www.linkedin.com/in/rafael-diogo-rossetti/">Rafael Diogo Rossetti </a>
 
